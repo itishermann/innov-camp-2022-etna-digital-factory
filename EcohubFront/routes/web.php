@@ -1,6 +1,9 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\HomeController;
+use App\Http\Controllers\SpaceController;
+use App\Http\Controllers\ItemController;
 
 /*
 |--------------------------------------------------------------------------
@@ -13,12 +16,12 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('home');
-})->middleware(['auth'])->name('home');;
 
-Route::get('/dashboard', function () {
-    return view('dashboard');
-})->middleware(['auth'])->name('dashboard');
+Route::middleware(['auth'])->group(function(){
+    Route::get('/', function(){return redirect('/space');});
+    Route::resource('home', HomeController::class);
+    Route::resource('space', SpaceController::class);
+    Route::resource('item', ItemController::class);
+});
 
 require __DIR__.'/auth.php';

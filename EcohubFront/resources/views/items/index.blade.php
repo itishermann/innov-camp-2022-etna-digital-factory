@@ -1,5 +1,5 @@
 @extends('layouts.app')
 
 @section('content')
-    home works!
+    item works!
 @endsection

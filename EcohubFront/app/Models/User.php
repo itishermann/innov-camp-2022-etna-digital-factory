@@ -7,6 +7,7 @@ use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 use Laravel\Sanctum\HasApiTokens;
+use App\Model\Home;
 
 class User extends Authenticatable
 {
@@ -21,6 +22,7 @@ class User extends Authenticatable
         'name',
         'email',
         'password',
+        'main_home_id',
     ];
 
     /**
@@ -41,4 +43,21 @@ class User extends Authenticatable
     protected $casts = [
         'email_verified_at' => 'datetime',
     ];
+
+    public function homes()
+    {
+        return $this->hasMany(Home::class);
+    }
+
+    public function getMainHome()
+    {
+        return Home::where('id', $this->main_home_id)->get();
+    }
+
+    public function isMainHome($id)
+    {
+        return $id == $this->main_home_id;
+    }
+
+
 }
