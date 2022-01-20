@@ -8,7 +8,6 @@ import {
   Box,
   Center,
   Stack,
-  useContrastText,
   Pressable,
 } from 'native-base';
 import React from 'react';
@@ -24,7 +23,7 @@ interface HeaderProps {
 
 const Header: React.FC<HeaderProps> = ({ title, style, back, navigation, transparent }) => {
   const backgroundColor = '#4D8D6E';
-  const textColor = useContrastText(backgroundColor);
+  const textColor = '#fff';
   return (
     <HStack
       style={style}

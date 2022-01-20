@@ -36,6 +36,7 @@ import { persistor, store } from '@store';
 import { Loader } from '@components';
 import moment from 'moment';
 import { LogBox } from 'react-native';
+import { StatusBar } from 'expo-status-bar';
 
 LogBox.ignoreAllLogs(true);
 moment.locale('fr');
@@ -67,6 +68,7 @@ const App = () => {
 
   return (
     <Provider store={store}>
+      <StatusBar style='light' />
       <NativeBaseProvider theme={theme}>
         <PersistGate loading={<Loader withLogo withText />} persistor={persistor}>
           <SafeAreaProvider>

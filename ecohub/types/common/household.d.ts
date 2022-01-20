@@ -1,5 +1,5 @@
 interface Household {
-  id: number;
+  id: string;
   name: string;
-  appliances: Appliance[];
+  appliances: string[];
 }

@@ -1,5 +1,6 @@
 import { combineReducers, configureStore, Middleware } from '@reduxjs/toolkit';
 import householdReducer from './household.slice';
+import applianceReducer from './appliance.slice';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { FLUSH, PAUSE, PERSIST, PersistConfig, persistReducer, persistStore, PURGE, REGISTER, REHYDRATE } from 'redux-persist';
 import { TypedUseSelectorHook, useDispatch, useSelector } from 'react-redux';
@@ -15,6 +16,7 @@ const middlewares: Middleware[] = [];
 
 const rootReducer = combineReducers({
   household: householdReducer,
+  appliance: applianceReducer,
 });
 
 const persistedReducer = persistReducer(persistConfig, (state, action) => {
