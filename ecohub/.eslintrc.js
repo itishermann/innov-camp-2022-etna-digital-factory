@@ -1,31 +1,25 @@
 module.exports = {
-  extends: [
-    'airbnb-typescript',
-    'universe/native'
-  ],
-  parserOptions: {
-    project: './tsconfig.json'
+  env: {
+    browser: true,
+    es2021: true,
   },
+  extends: [
+    'plugin:react/recommended',
+    'airbnb-typescript',
+  ],
   parser: '@typescript-eslint/parser',
+  parserOptions: {
+    project: './tsconfig.json',
+    ecmaFeatures: {
+      jsx: true,
+    },
+    ecmaVersion: 'latest',
+    sourceType: 'module',
+  },
   plugins: [
     'react',
     '@typescript-eslint',
   ],
   rules: {
-    indent: ['error', 2],
   },
-  overrides: [
-    {
-      files: ['src/store/**/*.slice.*', 'src/store/**/*.actions.*'],
-      rules: {
-        'no-param-reassign': 0,
-      },
-    },
-    {
-      files: ['src/store/**/*.thunks.*', 'src/store/**/*.actions.*'],
-      rules: {
-        'no-underscore-dangle': 0,
-      },
-    },
-  ],
 };
