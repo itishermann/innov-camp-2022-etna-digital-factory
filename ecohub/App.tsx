@@ -21,15 +21,15 @@ import {
   Poppins_800ExtraBold_Italic,
   Poppins_900Black,
   Poppins_900Black_Italic,
- } from '@expo-google-fonts/poppins';
+} from '@expo-google-fonts/poppins';
 import React from 'react';
 import { NativeBaseProvider, Box } from 'native-base';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import {
   NavigationContainer,
 } from '@react-navigation/native';
-import { theme } from '@styles';
-import {MainNavigator }from '@navigation';
+import { theme } from './src/styles';
+import { MainNavigator } from './src/navigation';
 
 
 const App = () => {
@@ -54,11 +54,11 @@ const App = () => {
     Poppins_900Black_Italic,
   });
 
-  if(!fontsLoaded) {
+  if (!fontsLoaded) {
     return <AppLoading />;
   } 
 
-  return(
+  return (
     <NativeBaseProvider theme={theme}>
       <SafeAreaProvider>
         <NavigationContainer>
@@ -66,7 +66,7 @@ const App = () => {
         </NavigationContainer>
         </SafeAreaProvider>
     </NativeBaseProvider>
-  )
-}
+  );
+};
 
 export default App;

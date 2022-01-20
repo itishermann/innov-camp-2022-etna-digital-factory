@@ -1,5 +1,5 @@
 import React from 'react';
-import { Google, Apple, Twitter, Facebook } from '@assets/svg';
+import { Google, Apple, Twitter, Facebook } from '../../../assets/svg';
 import { useNavigation } from '@react-navigation/native';
 import { useDisclose, Box, Stack, Heading, Input, Icon, IconButton, Spacer, HStack, Text, Button  } from 'native-base';
 import { MaterialCommunityIcons } from '@expo/vector-icons';

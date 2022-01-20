@@ -2,7 +2,7 @@ import { Box, Text, Button, Icon, Heading, Stack, Input, HStack, Divider, Spacer
 import { MaterialCommunityIcons } from '@expo/vector-icons';
 import React from 'react';
 import { useNavigation } from '@react-navigation/native';
-import { Google, Facebook, Apple, Twitter } from '@assets/svg';
+import { Google, Facebook, Apple, Twitter } from '../../../assets/svg';
 
 const Login = () => {
   const navigation = useNavigation();

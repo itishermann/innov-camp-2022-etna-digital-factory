@@ -1,5 +1,5 @@
-import { createStackNavigator } from "@react-navigation/stack";
-import { Home, Onboard, Auth } from "@views";
+import { createStackNavigator } from '@react-navigation/stack';
+import { Home, Onboard, Auth } from '../views';
 import React from 'react';
 
 const Stack = createStackNavigator();
@@ -12,6 +12,6 @@ const MainNavigator = () => {
       <Stack.Screen name="auth" component={Auth} />
     </Stack.Navigator>
   );
-}
+};
 
 export default MainNavigator;
