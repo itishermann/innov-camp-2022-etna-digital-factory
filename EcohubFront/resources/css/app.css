@@ -1,3 +1,63 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+@import '';
+
+html, body {
+    margin:0;
+    padding:0;
+    height: 100%;
+}
+
+.icons i {
+    color: #b5b3b3;
+    border: 1px solid #b5b3b3;
+    padding: 6px;
+    margin-left: 4px;
+    border-radius: 5px;
+    cursor: pointer
+}
+
+.activity-done {
+    font-weight: 600
+}
+
+.list-group li {
+    margin-bottom: 12px
+}
+
+
+.list li {
+    list-style: none;
+    padding: 10px;
+    border: 1px solid black;
+    margin-top: 12px;
+    border-radius: 15px;
+    
+}
+
+.checkicon {
+    color: green;
+    font-size: 19px
+}
+
+.date-time {
+    font-size: 12px
+}
+
+.profile-image img {
+    margin-left: 3px
+}
+
+.add-button{
+    border: 2px solid rgb(73, 73, 73);
+    color:white;
+    border-radius: 15px;
+    background: #f75700;
+}
+
+.space-list-item{
+    border: 2px solid rgb(73, 73, 73);
+    border-radius: 15px;
+    background: #7d93a5;
+}
