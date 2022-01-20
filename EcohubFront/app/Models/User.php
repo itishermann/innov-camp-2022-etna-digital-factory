@@ -7,11 +7,13 @@ use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 use Laravel\Sanctum\HasApiTokens;
-use App\Model\Home;
+use App\Models\Home;
 
 class User extends Authenticatable
 {
     use HasApiTokens, HasFactory, Notifiable;
+
+    private $selected_home=null;
 
     /**
      * The attributes that are mass assignable.
@@ -51,7 +53,7 @@ class User extends Authenticatable
 
     public function getMainHome()
     {
-        return Home::where('id', $this->main_home_id)->get();
+        return Home::where('id', $this->main_home_id)->first();
     }
 
     public function isMainHome($id)
@@ -59,5 +61,17 @@ class User extends Authenticatable
         return $id == $this->main_home_id;
     }
 
+    public function getSelectedHome()
+    {
+        if ($this->selected_home==null){
+            $this->selected_home = $this->getMainHome();
+        }
+        return $this->selected_home;
+    }
+
+    public function setSelectedHome($selected_home)
+    {
+        $this->selected_home = $selected_home;
+    }
 
 }

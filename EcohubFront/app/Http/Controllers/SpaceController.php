@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
 
 class SpaceController extends Controller
 {
@@ -13,7 +14,8 @@ class SpaceController extends Controller
      */
     public function index()
     {
-        return view("spaces.index");
+        $spaces = Auth::user()->getSelectedHome()->spaces();
+        return view("spaces.index", ['spaces'=>$spaces]);
     }
 
     /**

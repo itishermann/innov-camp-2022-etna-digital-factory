@@ -1,4 +1,4 @@
-require('./bootstrap');
+require('./jquery.js');
 
 import Alpine from 'alpinejs';
 import "bootstrap";
