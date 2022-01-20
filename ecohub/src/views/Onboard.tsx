@@ -8,10 +8,10 @@ const Onboard = () => {
   return (
     <Box flex={1}>
       <Stack bg='tertiary.700' minH={96} justifyContent={'center'} pl={9}>
-        <Text color='white' fontWeight={"semibold"} fontSize="2xl">Bienvenue à votre</Text>
-        <Heading color='white' fontWeight={"semibold"} fontSize='52'>ECOHUB</Heading>
+        <Text color='white' fontWeight={'semibold'} fontSize="2xl">Bienvenue à votre</Text>
+        <Heading color='white' fontWeight={'semibold'} fontSize='52'>ECOHUB</Heading>
       </Stack>
-      <Stack justifyContent={"center"} alignItems="center" flex="1" space={5}>
+      <Stack justifyContent={'center'} alignItems="center" flex="1" space={5}>
         <Button
           variant={'solid'}
           minW='70%'

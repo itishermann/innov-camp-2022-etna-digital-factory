@@ -1,8 +1,6 @@
 interface Appliance {
-  id: string;
+  id: number;
   name: string;
   type: string;
   state: string;
-  householdId: string;
-  userId: string;
 }

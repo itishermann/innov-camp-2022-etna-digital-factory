@@ -1,8 +1,8 @@
 import 'react-native-gesture-handler';
-import { StatusBar } from 'expo-status-bar';
+import 'moment/locale/fr';
 import AppLoading from 'expo-app-loading';
-import { 
-  useFonts, 
+import {
+  useFonts,
   Poppins_100Thin,
   Poppins_100Thin_Italic,
   Poppins_200ExtraLight,
@@ -23,15 +23,22 @@ import {
   Poppins_900Black_Italic,
 } from '@expo-google-fonts/poppins';
 import React from 'react';
-import { NativeBaseProvider, Box } from 'native-base';
+import { NativeBaseProvider } from 'native-base';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import {
   NavigationContainer,
 } from '@react-navigation/native';
-import { theme } from './src/styles';
-import { MainNavigator } from './src/navigation';
+import { theme } from '@styles';
+import { MainNavigator } from '@navigation';
+import { Provider } from 'react-redux';
+import { PersistGate } from 'redux-persist/integration/react';
+import { persistor, store } from '@store';
+import { Loader } from '@components';
+import moment from 'moment';
+import { LogBox } from 'react-native';
 
-
+LogBox.ignoreAllLogs(true);
+moment.locale('fr');
 const App = () => {
   let [fontsLoaded] = useFonts({
     Poppins_100Thin,
@@ -56,16 +63,20 @@ const App = () => {
 
   if (!fontsLoaded) {
     return <AppLoading />;
-  } 
+  }
 
   return (
-    <NativeBaseProvider theme={theme}>
-      <SafeAreaProvider>
-        <NavigationContainer>
-          <MainNavigator />
-        </NavigationContainer>
-        </SafeAreaProvider>
-    </NativeBaseProvider>
+    <Provider store={store}>
+      <NativeBaseProvider theme={theme}>
+        <PersistGate loading={<Loader withLogo withText />} persistor={persistor}>
+          <SafeAreaProvider>
+            <NavigationContainer>
+              <MainNavigator />
+            </NavigationContainer>
+          </SafeAreaProvider>
+        </PersistGate>
+      </NativeBaseProvider>
+    </Provider>
   );
 };
 
