@@ -9,7 +9,7 @@ const Register = () => {
   const passwordShown = useDisclose();
   return (
     <Box flex={1} mt={5} alignItems='center'>
-      <Stack space={7}>
+      <Stack space={4}>
       <Heading fontWeight={'semibold'} fontSize='20' textAlign={'center'}>Construisons un avenir durable</Heading>
         <Box shadow={1} maxW='80%'>
           <Input
@@ -27,6 +27,7 @@ const Register = () => {
             variant="filled"
             placeholder="Email"
             bg={'white'}
+            shadow={9}
             minW='80%'
             h={'12'}
             size="lg" />
@@ -112,7 +113,7 @@ const Register = () => {
         <HStack>
           <Text textAlign={'center'}>ou continuer avec</Text>
         </HStack>
-        <Stack space={2} safeAreaBottom mt={3}>
+        <Stack space={2} safeAreaBottom mt={3} pb={5}>
           <HStack space={2}>
             <Button colorScheme='muted' leftIcon={<Google/>} bg={'white'} w={40} h={12} shadow={1}>Google</Button>
             <Button colorScheme='muted' leftIcon={<Apple/>} bg={'white'} w={40} h={12} shadow={1}>Apple</Button>

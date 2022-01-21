@@ -1,5 +1,5 @@
 import { createStackNavigator } from '@react-navigation/stack';
-import { Onboard, Auth,  Maintenances, Article, AddAppliance, AddHousehold } from '@views';
+import { Onboard, Auth,  Maintenances, Article, AddAppliance, AddHousehold, ApplianceComplementaryInfos, Details } from '@views';
 import { getHeaderTitle } from '@react-navigation/elements';
 import HomeTab from './HomeTab';
 import React from 'react';
@@ -10,7 +10,7 @@ const Stack = createStackNavigator();
 const MainNavigator = () => {
   return (
     <Stack.Navigator 
-    initialRouteName="onboard" 
+    initialRouteName="home" 
     screenOptions={{
       header: ({ navigation, route, options, back }) => {
         const title = getHeaderTitle(options, route.name);
@@ -30,8 +30,10 @@ const MainNavigator = () => {
       <Stack.Screen name="auth" options={{ headerShown: false }} component={Auth} />
       <Stack.Screen name="article" options={{ title: 'Article' }} component={Article} />
       <Stack.Screen name="maintenance" component={Maintenances} />
+      <Stack.Screen name="details" component={Details} />
       <Stack.Screen name="addHousehold" component={AddHousehold} options={{ title: 'Ajouter une residence' }} />
       <Stack.Screen name="addAppliance" component={AddAppliance} options={{ title: 'Ajouter un appareil' }} />
+      <Stack.Screen name="addApplianceComplementaryInfo" component={ApplianceComplementaryInfos} options={{ title: 'Informations Complementaires' }} />
     </Stack.Navigator>
   );
 };

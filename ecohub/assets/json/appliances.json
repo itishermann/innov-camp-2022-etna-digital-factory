@@ -1,0 +1,1233 @@
+[
+  {
+    "id": "9afae694-c69c-4e9b-b145-b7c0a8af23f0",
+    "name": "fugiat quis nulla adipisicing laborum",
+    "type": "FRIDGE",
+    "image": "https://via.placeholder.com/200x200.png",
+    "addedOn": null,
+    "manualUrl": "https://fnac.com/cfdf7c0c-f767-4a90-b168-bf661483b009",
+    "maintenance": {
+      "logs": [
+        {
+          "data": [
+            {
+              "date": 1551618825,
+              "title": "adipisicing ut aliqua",
+              "subtitle": "mollit esse laboris"
+            },
+            {
+              "date": 1518938030,
+              "title": "commodo magna aute",
+              "subtitle": "laborum ad aute"
+            },
+            {
+              "date": 1431686720,
+              "title": "nulla nisi nulla",
+              "subtitle": "est consectetur enim"
+            },
+            {
+              "date": 1466892279,
+              "title": "do consectetur ipsum",
+              "subtitle": "sunt eu ipsum"
+            },
+            {
+              "date": 1508055603,
+              "title": "nostrud nostrud consectetur",
+              "subtitle": "magna proident dolore"
+            },
+            {
+              "date": 1499313314,
+              "title": "culpa dolore aliquip",
+              "subtitle": "sint eiusmod nulla"
+            },
+            {
+              "date": 1456975749,
+              "title": "ex consequat consequat",
+              "subtitle": "ex sit ad"
+            },
+            {
+              "date": 1425728233,
+              "title": "nisi reprehenderit anim",
+              "subtitle": "do magna sit"
+            },
+            {
+              "date": 1588879743,
+              "title": "aliquip eu officia",
+              "subtitle": "reprehenderit officia nisi"
+            }
+          ],
+          "date": 1459834908
+        },
+        {
+          "data": [
+            {
+              "date": 1483540439,
+              "title": "sit commodo enim",
+              "subtitle": "occaecat cupidatat ea"
+            }
+          ],
+          "date": 1577841078
+        },
+        {
+          "data": [
+            {
+              "date": 1619854724,
+              "title": "aliqua laboris consectetur",
+              "subtitle": "ex adipisicing dolor"
+            },
+            {
+              "date": 1422351306,
+              "title": "consectetur aliqua proident",
+              "subtitle": "ipsum ut sunt"
+            },
+            {
+              "date": 1584697648,
+              "title": "do dolore laboris",
+              "subtitle": "minim voluptate ea"
+            },
+            {
+              "date": 1469513575,
+              "title": "ad nostrud anim",
+              "subtitle": "enim enim laboris"
+            },
+            {
+              "date": 1446238072,
+              "title": "Lorem irure qui",
+              "subtitle": "laboris reprehenderit velit"
+            }
+          ],
+          "date": 1459742099
+        },
+        {
+          "data": [
+            {
+              "date": 1540683686,
+              "title": "sunt in excepteur",
+              "subtitle": "consectetur dolor aliqua"
+            },
+            {
+              "date": 1603457115,
+              "title": "in Lorem consectetur",
+              "subtitle": "enim veniam esse"
+            }
+          ],
+          "date": 1485490591
+        },
+        {
+          "data": [
+            {
+              "date": 1587151392,
+              "title": "Lorem ex pariatur",
+              "subtitle": "tempor ullamco laborum"
+            },
+            {
+              "date": 1535138912,
+              "title": "dolore sunt consectetur",
+              "subtitle": "ut tempor nulla"
+            },
+            {
+              "date": 1487979549,
+              "title": "pariatur cillum pariatur",
+              "subtitle": "excepteur non commodo"
+            },
+            {
+              "date": 1457692569,
+              "title": "non magna culpa",
+              "subtitle": "aute sit excepteur"
+            },
+            {
+              "date": 1428972630,
+              "title": "eiusmod cupidatat ea",
+              "subtitle": "fugiat cillum fugiat"
+            }
+          ],
+          "date": 1429032454
+        }
+      ],
+      "tutorials": [
+        {
+          "id": "8a495e01-adb6-4199-aec9-2bc1cdc88a60",
+          "image": "https://via.placeholder.com/200x200.png",
+          "title": "in tempor consequat ullamco reprehenderit",
+          "videoUrl": "https://darty.com/145a6fa1-6e97-408b-b329-6c4cfc9e629d",
+          "description": "Ad sint reprehenderit qui duis aute cillum amet aliquip. Nostrud ut nisi reprehenderit velit voluptate."
+        },
+        {
+          "id": "5008354e-5527-4f30-9393-a1daf078678e",
+          "image": "https://via.placeholder.com/200x200.png",
+          "title": "quis deserunt eu nostrud exercitation",
+          "videoUrl": "https://darty.com/bb4605c6-e16f-46c6-a7db-96909d725daf",
+          "description": "Nulla magna est incididunt non duis enim veniam consequat dolor. Laborum velit mollit adipisicing anim excepteur voluptate veniam."
+        },
+        {
+          "id": "d28df47a-ae76-4649-bf2e-9ef4e34a2e91",
+          "image": "https://via.placeholder.com/200x200.png",
+          "title": "sint non consectetur et sit",
+          "videoUrl": "https://darty.com/6e0f7df9-53ea-4b2f-806a-ac84025be2d3",
+          "description": "Dolore mollit id excepteur incididunt sit do mollit magna ad ut officia. Laborum amet voluptate labore nostrud commodo magna enim aute dolor do."
+        },
+        {
+          "id": "f02b4932-fa3a-4b06-b547-a78df32baa69",
+          "image": "https://via.placeholder.com/200x200.png",
+          "title": "ut amet anim deserunt sunt",
+          "videoUrl": "https://darty.com/a4d91949-f326-4ca4-bf02-634d62aecbf1",
+          "description": "Ullamco veniam quis fugiat amet magna nulla elit mollit. Ullamco voluptate enim minim duis irure cupidatat ut id do magna aliqua duis amet qui."
+        },
+        {
+          "id": "17d81b8e-2063-4338-b6d8-8b5fc5635867",
+          "image": "https://via.placeholder.com/200x200.png",
+          "title": "et amet sint anim occaecat",
+          "videoUrl": "https://darty.com/2fc72dc5-bdf0-49ee-a364-2780c0b4888f",
+          "description": "Lorem in amet voluptate culpa id quis occaecat Lorem quis culpa dolor officia pariatur consectetur. Officia eu irure ullamco id exercitation ex ut consectetur fugiat et officia enim."
+        },
+        {
+          "id": "e96a31ea-1fd0-4f0c-b700-d23e5432a1c2",
+          "image": "https://via.placeholder.com/200x200.png",
+          "title": "mollit ipsum irure anim incididunt",
+          "videoUrl": "https://darty.com/4a31735a-44b0-4856-99c2-f1d0b40f451d",
+          "description": "Ipsum culpa irure aliqua consectetur eiusmod. Sint ex et sunt voluptate adipisicing magna fugiat tempor non irure in laborum."
+        },
+        {
+          "id": "5fa7c170-995d-42ff-b1ef-f7049e49c1e4",
+          "image": "https://via.placeholder.com/200x200.png",
+          "title": "commodo ipsum et velit labore",
+          "videoUrl": "https://darty.com/5c83437c-7eaf-48a8-8447-ce79cb3bca8b",
+          "description": "Quis id ad nulla aliquip deserunt fugiat enim adipisicing amet reprehenderit. Dolor ad nulla esse sit et ut culpa officia amet veniam."
+        },
+        {
+          "id": "3841f2cc-cbd0-4509-9a23-3acf0fed1ba0",
+          "image": "https://via.placeholder.com/200x200.png",
+          "title": "consequat magna tempor sint fugiat",
+          "videoUrl": "https://darty.com/4c55019a-4f32-435f-a161-6bfdb2ed2fc9",
+          "description": "Id duis dolore in magna mollit qui. Proident do occaecat labore excepteur aute ullamco deserunt sunt."
+        },
+        {
+          "id": "201e284d-9f98-4a32-9aab-3df840e8e333",
+          "image": "https://via.placeholder.com/200x200.png",
+          "title": "adipisicing ullamco eiusmod veniam ea",
+          "videoUrl": "https://darty.com/3301165c-7a43-45c8-ae08-64d75a93006d",
+          "description": "Veniam incididunt deserunt laboris mollit pariatur aute. Culpa nisi officia incididunt non sunt laboris."
+        },
+        {
+          "id": "d8ad5f68-3ee5-48e0-8f89-60ed8921413c",
+          "image": "https://via.placeholder.com/200x200.png",
+          "title": "et anim velit nulla sunt",
+          "videoUrl": "https://darty.com/a71182d8-e0c7-4344-b2ff-61e076cb5010",
+          "description": "Ea incididunt veniam ut reprehenderit proident culpa magna minim occaecat est ad elit eiusmod magna. Consequat est adipisicing veniam ad nostrud eiusmod labore velit aliquip sit cillum eu ex eiusmod."
+        }
+      ],
+      "spareParts": [
+        {
+          "id": "d7b5ef7c-a0b1-41e3-b490-0812a88b09e3",
+          "url": "https://youtube.com/5357d463-4caf-4ac3-a34c-ffcbf21d524e",
+          "name": "do proident nisi",
+          "image": "https://via.placeholder.com/200x200.png",
+          "price": 43.38,
+          "description": "Minim ipsum consequat non sint mollit aliqua dolor nostrud exercitation ullamco ea mollit. Dolor cupidatat sunt ut do labore sit dolore et."
+        },
+        {
+          "id": "e7b379da-851b-434a-b870-446d306fd44e",
+          "url": "https://youtube.com/9124e041-84f1-4268-b568-a797d3c3959c",
+          "name": "dolore est eu",
+          "image": "https://via.placeholder.com/200x200.png",
+          "price": 24.23,
+          "description": "Voluptate eu aliqua cillum anim ullamco voluptate commodo dolor sint deserunt exercitation proident aliquip duis. Deserunt occaecat ipsum occaecat reprehenderit consectetur sit occaecat nisi in."
+        },
+        {
+          "id": "42bd2d68-8816-4c5c-8aae-d1e6a7a4d350",
+          "url": "https://youtube.com/d6e0b495-83bb-4d05-b96e-ea82f6f0eaf4",
+          "name": "enim Lorem elit",
+          "image": "https://via.placeholder.com/200x200.png",
+          "price": 23.63,
+          "description": "Excepteur minim dolore sit proident consectetur nostrud. Dolore non aute sint adipisicing laborum dolor deserunt quis consequat fugiat nisi ea cupidatat cupidatat."
+        }
+      ]
+    },
+    "maxLifespan": 11,
+    "releaseDate": "2019-05-28T21:52:51.899Z",
+    "purchaseDate": null
+  },
+  {
+    "id": "41ffb476-42cc-48ba-95eb-b03297a31dfe",
+    "name": "labore excepteur veniam enim voluptate",
+    "type": "OVEN",
+    "image": "https://via.placeholder.com/200x200.png",
+    "addedOn": null,
+    "manualUrl": "https://fnac.com/2cb6be40-79fd-4937-a3e8-4720aa59b47e",
+    "maintenance": {
+      "logs": [
+        {
+          "data": [
+            {
+              "date": 1532911585,
+              "title": "deserunt incididunt cillum",
+              "subtitle": "irure exercitation adipisicing"
+            },
+            {
+              "date": 1465083885,
+              "title": "veniam ad dolor",
+              "subtitle": "non dolor ullamco"
+            }
+          ],
+          "date": 1519370520
+        },
+        {
+          "data": [
+            {
+              "date": 1428993538,
+              "title": "dolor tempor Lorem",
+              "subtitle": "id sunt est"
+            },
+            {
+              "date": 1587082174,
+              "title": "deserunt qui quis",
+              "subtitle": "aliquip culpa aliquip"
+            },
+            {
+              "date": 1554322082,
+              "title": "esse voluptate labore",
+              "subtitle": "sit Lorem quis"
+            },
+            {
+              "date": 1617491172,
+              "title": "occaecat ad amet",
+              "subtitle": "enim sint et"
+            },
+            {
+              "date": 1513195103,
+              "title": "nisi culpa minim",
+              "subtitle": "quis amet qui"
+            },
+            {
+              "date": 1454742587,
+              "title": "sunt ea id",
+              "subtitle": "est id eu"
+            },
+            {
+              "date": 1598126426,
+              "title": "nostrud voluptate irure",
+              "subtitle": "est velit laboris"
+            },
+            {
+              "date": 1456799902,
+              "title": "aliquip reprehenderit deserunt",
+              "subtitle": "ea fugiat ut"
+            }
+          ],
+          "date": 1589213048
+        },
+        {
+          "data": [
+            {
+              "date": 1577287054,
+              "title": "culpa fugiat id",
+              "subtitle": "anim do excepteur"
+            },
+            {
+              "date": 1577270133,
+              "title": "anim reprehenderit nulla",
+              "subtitle": "reprehenderit deserunt deserunt"
+            },
+            {
+              "date": 1422120800,
+              "title": "id et laboris",
+              "subtitle": "pariatur ipsum duis"
+            },
+            {
+              "date": 1546063033,
+              "title": "velit ut sint",
+              "subtitle": "quis duis do"
+            },
+            {
+              "date": 1447481975,
+              "title": "nulla consequat qui",
+              "subtitle": "pariatur et dolore"
+            },
+            {
+              "date": 1568307169,
+              "title": "dolore sit id",
+              "subtitle": "dolor irure reprehenderit"
+            },
+            {
+              "date": 1585989074,
+              "title": "ad eiusmod minim",
+              "subtitle": "culpa aliqua irure"
+            }
+          ],
+          "date": 1548671877
+        },
+        {
+          "data": [
+            {
+              "date": 1563229605,
+              "title": "ad ut quis",
+              "subtitle": "ipsum aliquip incididunt"
+            },
+            {
+              "date": 1497753493,
+              "title": "Lorem adipisicing laborum",
+              "subtitle": "occaecat ut non"
+            },
+            {
+              "date": 1502442264,
+              "title": "eiusmod est fugiat",
+              "subtitle": "qui ex enim"
+            },
+            {
+              "date": 1439076266,
+              "title": "sunt dolore non",
+              "subtitle": "qui veniam reprehenderit"
+            },
+            {
+              "date": 1634957969,
+              "title": "commodo quis voluptate",
+              "subtitle": "ipsum dolore ullamco"
+            },
+            {
+              "date": 1619872091,
+              "title": "esse velit in",
+              "subtitle": "deserunt sint sunt"
+            },
+            {
+              "date": 1607651718,
+              "title": "cillum cillum proident",
+              "subtitle": "nisi dolor pariatur"
+            }
+          ],
+          "date": 1585645264
+        },
+        {
+          "data": [
+            {
+              "date": 1434215813,
+              "title": "Lorem qui anim",
+              "subtitle": "nisi Lorem ex"
+            },
+            {
+              "date": 1549575277,
+              "title": "cillum tempor nulla",
+              "subtitle": "pariatur amet dolore"
+            },
+            {
+              "date": 1585958005,
+              "title": "enim enim non",
+              "subtitle": "reprehenderit id voluptate"
+            }
+          ],
+          "date": 1553074234
+        },
+        {
+          "data": [
+            {
+              "date": 1524403650,
+              "title": "consequat mollit ad",
+              "subtitle": "aute in commodo"
+            },
+            {
+              "date": 1486482801,
+              "title": "non do do",
+              "subtitle": "incididunt officia ipsum"
+            },
+            {
+              "date": 1433960049,
+              "title": "elit in deserunt",
+              "subtitle": "quis velit ea"
+            },
+            {
+              "date": 1535379366,
+              "title": "non esse consectetur",
+              "subtitle": "et culpa consequat"
+            },
+            {
+              "date": 1433466612,
+              "title": "quis cillum culpa",
+              "subtitle": "elit proident ad"
+            },
+            {
+              "date": 1453237906,
+              "title": "velit consequat ut",
+              "subtitle": "exercitation magna esse"
+            },
+            {
+              "date": 1528899566,
+              "title": "nostrud cupidatat pariatur",
+              "subtitle": "tempor esse fugiat"
+            },
+            {
+              "date": 1560599569,
+              "title": "non quis pariatur",
+              "subtitle": "sunt magna consequat"
+            },
+            {
+              "date": 1477050917,
+              "title": "qui non incididunt",
+              "subtitle": "id excepteur voluptate"
+            }
+          ],
+          "date": 1481565511
+        }
+      ],
+      "tutorials": [
+        {
+          "id": "3722879d-a96d-43d0-9f5e-f4381a4ba641",
+          "image": "https://via.placeholder.com/200x200.png",
+          "title": "sit aliqua Lorem excepteur cillum",
+          "videoUrl": "https://darty.com/7bf41eb6-4c4f-4381-93a1-2a525938f503",
+          "description": "Consequat dolor aliquip veniam nulla do anim id magna in officia amet esse anim. Esse sint ea ea eiusmod sint sunt ullamco duis."
+        }
+      ],
+      "spareParts": [
+        {
+          "id": "d83d9155-01cd-454e-831b-edeb49963718",
+          "url": "https://youtube.com/455b4d42-f4ec-4dff-a899-3d334ed541f5",
+          "name": "pariatur ex fugiat",
+          "image": "https://via.placeholder.com/200x200.png",
+          "price": 38.85,
+          "description": "Ut anim aliquip tempor sint. Cillum et veniam ullamco mollit eiusmod aliquip occaecat irure aliqua dolore ut officia."
+        },
+        {
+          "id": "a2d614e2-0b43-4005-b48b-e354558a750e",
+          "url": "https://youtube.com/1d58e086-aa7b-4075-ac00-924af3fd9d37",
+          "name": "qui qui pariatur",
+          "image": "https://via.placeholder.com/200x200.png",
+          "price": 22.32,
+          "description": "Dolore veniam commodo nisi laborum amet nulla minim. Veniam magna qui sunt esse nisi occaecat cillum tempor pariatur excepteur laborum ut reprehenderit."
+        },
+        {
+          "id": "300641cd-ba59-4827-b561-f6cae254de58",
+          "url": "https://youtube.com/97390695-02d3-48f1-b0b4-45e7206aa960",
+          "name": "est nostrud laboris",
+          "image": "https://via.placeholder.com/200x200.png",
+          "price": 39.58,
+          "description": "Ad veniam cupidatat dolore sunt cillum officia sunt sunt laboris laborum minim. Est ullamco tempor sit enim irure velit aliquip proident enim et."
+        },
+        {
+          "id": "afafdfa5-a5d2-4830-817e-68038d7a9bc3",
+          "url": "https://youtube.com/a6b5a7cb-b663-467a-8dc6-e3d1025432cb",
+          "name": "laboris ad ut",
+          "image": "https://via.placeholder.com/200x200.png",
+          "price": 49.42,
+          "description": "Consectetur esse sint esse enim tempor eiusmod est sit in nulla ex excepteur nisi cupidatat. Nisi quis anim amet irure et tempor do ea pariatur esse nisi sunt."
+        }
+      ]
+    },
+    "maxLifespan": 10,
+    "releaseDate": "2020-04-10T03:46:26.940Z",
+    "purchaseDate": null
+  },
+  {
+    "id": "03b1ed86-5095-430a-9e1d-5f2bc232a74f",
+    "name": "nisi et amet qui adipisicing",
+    "type": "OVEN",
+    "image": "https://via.placeholder.com/200x200.png",
+    "addedOn": null,
+    "manualUrl": "https://fnac.com/b5fd9033-96a2-4444-961a-300e926d7a57",
+    "maintenance": {
+      "logs": [
+        {
+          "data": [
+            {
+              "date": 1482542031,
+              "title": "id laborum qui",
+              "subtitle": "nostrud mollit consequat"
+            },
+            {
+              "date": 1426245369,
+              "title": "eu anim non",
+              "subtitle": "do et sint"
+            },
+            {
+              "date": 1445551981,
+              "title": "cupidatat cillum qui",
+              "subtitle": "velit dolore eu"
+            },
+            {
+              "date": 1599432027,
+              "title": "tempor culpa cillum",
+              "subtitle": "reprehenderit cillum eiusmod"
+            }
+          ],
+          "date": 1446843571
+        },
+        {
+          "data": [
+            {
+              "date": 1558381390,
+              "title": "tempor deserunt occaecat",
+              "subtitle": "ut quis Lorem"
+            },
+            {
+              "date": 1533215779,
+              "title": "incididunt sit laborum",
+              "subtitle": "pariatur non id"
+            },
+            {
+              "date": 1539422007,
+              "title": "aliqua in et",
+              "subtitle": "elit eu magna"
+            },
+            {
+              "date": 1439414092,
+              "title": "quis quis eu",
+              "subtitle": "reprehenderit ullamco dolore"
+            },
+            {
+              "date": 1487573236,
+              "title": "officia id culpa",
+              "subtitle": "exercitation mollit pariatur"
+            }
+          ],
+          "date": 1504491215
+        },
+        {
+          "data": [
+            {
+              "date": 1570113815,
+              "title": "elit ad eiusmod",
+              "subtitle": "aliqua cupidatat enim"
+            },
+            {
+              "date": 1489195972,
+              "title": "ut consequat dolor",
+              "subtitle": "nostrud consequat occaecat"
+            },
+            {
+              "date": 1562183724,
+              "title": "reprehenderit exercitation aliquip",
+              "subtitle": "magna ex laborum"
+            },
+            {
+              "date": 1481531458,
+              "title": "adipisicing nulla id",
+              "subtitle": "eu fugiat dolore"
+            },
+            {
+              "date": 1531469786,
+              "title": "velit occaecat nisi",
+              "subtitle": "do fugiat proident"
+            }
+          ],
+          "date": 1424124128
+        },
+        {
+          "data": [
+            {
+              "date": 1584757966,
+              "title": "reprehenderit amet labore",
+              "subtitle": "cupidatat ipsum qui"
+            },
+            {
+              "date": 1541681639,
+              "title": "eiusmod laboris proident",
+              "subtitle": "do non reprehenderit"
+            },
+            {
+              "date": 1576660108,
+              "title": "aliquip ut adipisicing",
+              "subtitle": "ea consectetur nisi"
+            }
+          ],
+          "date": 1605709184
+        },
+        {
+          "data": [
+            {
+              "date": 1632520412,
+              "title": "minim officia dolore",
+              "subtitle": "in et adipisicing"
+            },
+            {
+              "date": 1563350624,
+              "title": "nisi pariatur adipisicing",
+              "subtitle": "adipisicing adipisicing ut"
+            },
+            {
+              "date": 1482153929,
+              "title": "consectetur est occaecat",
+              "subtitle": "dolore cillum ullamco"
+            },
+            {
+              "date": 1639132369,
+              "title": "ex non laboris",
+              "subtitle": "anim amet eiusmod"
+            }
+          ],
+          "date": 1637673637
+        },
+        {
+          "data": [
+            {
+              "date": 1638658672,
+              "title": "deserunt aute quis",
+              "subtitle": "id culpa cillum"
+            },
+            {
+              "date": 1483398569,
+              "title": "tempor adipisicing ad",
+              "subtitle": "do nostrud labore"
+            },
+            {
+              "date": 1581983376,
+              "title": "commodo laboris est",
+              "subtitle": "ea mollit velit"
+            },
+            {
+              "date": 1548050145,
+              "title": "eiusmod elit esse",
+              "subtitle": "aliquip ea adipisicing"
+            },
+            {
+              "date": 1420559876,
+              "title": "consequat ipsum culpa",
+              "subtitle": "duis elit sit"
+            },
+            {
+              "date": 1492125995,
+              "title": "eiusmod dolore exercitation",
+              "subtitle": "qui eiusmod consequat"
+            },
+            {
+              "date": 1446755960,
+              "title": "magna duis nisi",
+              "subtitle": "pariatur duis quis"
+            },
+            {
+              "date": 1638225918,
+              "title": "dolore eiusmod aliqua",
+              "subtitle": "ad id deserunt"
+            }
+          ],
+          "date": 1523189610
+        },
+        {
+          "data": [
+            {
+              "date": 1604634952,
+              "title": "magna dolor pariatur",
+              "subtitle": "reprehenderit labore aliquip"
+            },
+            {
+              "date": 1508717030,
+              "title": "qui non tempor",
+              "subtitle": "ipsum ad ut"
+            }
+          ],
+          "date": 1431646721
+        }
+      ],
+      "tutorials": [
+        {
+          "id": "0b1b4da5-d800-4c38-941d-0587e0eee898",
+          "image": "https://via.placeholder.com/200x200.png",
+          "title": "in tempor nulla magna qui",
+          "videoUrl": "https://darty.com/7757cb92-28a8-48a4-b121-c914b149c49e",
+          "description": "Et voluptate consectetur et ipsum id anim incididunt consequat fugiat. Magna veniam commodo amet proident magna."
+        },
+        {
+          "id": "732423bd-8ca2-47d6-9424-b3ba1a216ad2",
+          "image": "https://via.placeholder.com/200x200.png",
+          "title": "nostrud mollit commodo nulla labore",
+          "videoUrl": "https://darty.com/fb158b5e-d8f0-40f9-9ced-3227c1805988",
+          "description": "Minim labore do id sunt laborum laborum tempor consequat incididunt mollit tempor. Elit irure elit adipisicing est nisi adipisicing ullamco occaecat aute."
+        },
+        {
+          "id": "3db852b4-da17-4ed7-9905-5fd5e9e737d9",
+          "image": "https://via.placeholder.com/200x200.png",
+          "title": "nulla eu amet pariatur dolor",
+          "videoUrl": "https://darty.com/a74a1d65-b50b-43bd-b787-ee41f92c0609",
+          "description": "Enim aute dolore laborum irure esse cillum aute sit aliquip amet elit. Quis veniam ipsum ullamco aliqua tempor anim amet consectetur qui eu Lorem."
+        },
+        {
+          "id": "97cd462b-27ea-4ef3-b927-34b2bef6895d",
+          "image": "https://via.placeholder.com/200x200.png",
+          "title": "proident deserunt cillum laborum tempor",
+          "videoUrl": "https://darty.com/19b2bb98-1d1a-4279-b442-ab476a99f232",
+          "description": "Ex ipsum aute non elit irure nostrud enim esse. Deserunt anim enim dolor veniam occaecat officia."
+        }
+      ],
+      "spareParts": [
+        {
+          "id": "e6dd52e7-443e-49ec-8db3-1fb1bb702a3d",
+          "url": "https://youtube.com/4f138a71-cf1e-4b9f-9fce-ad8980e750d5",
+          "name": "duis reprehenderit ipsum",
+          "image": "https://via.placeholder.com/200x200.png",
+          "price": 25.91,
+          "description": "Excepteur sunt nostrud sunt sint est ex in laborum do tempor non non cupidatat. Veniam eu proident sit do aliquip et."
+        },
+        {
+          "id": "e7c5d94b-64f5-4b80-9b47-f2fd415a98f5",
+          "url": "https://youtube.com/23a3bf2b-9717-473b-8234-a6fc4eef782f",
+          "name": "aute tempor ut",
+          "image": "https://via.placeholder.com/200x200.png",
+          "price": 48.98,
+          "description": "Excepteur commodo nulla dolor dolore et nostrud officia id ad aliquip ea. Deserunt laborum exercitation id cillum velit."
+        },
+        {
+          "id": "b2a91ef8-6897-4173-a4ad-697bd5acb76d",
+          "url": "https://youtube.com/76302f1d-e761-4035-8e1c-00df1054eaab",
+          "name": "adipisicing deserunt eu",
+          "image": "https://via.placeholder.com/200x200.png",
+          "price": 39.23,
+          "description": "Cupidatat sint minim velit laborum sint consequat ullamco. Laboris aliqua nostrud nisi amet veniam tempor reprehenderit."
+        },
+        {
+          "id": "ceb1e6c3-4405-4f88-a61e-29504a693733",
+          "url": "https://youtube.com/5676b22d-e9d2-414a-b61a-bce0636820b7",
+          "name": "anim aute commodo",
+          "image": "https://via.placeholder.com/200x200.png",
+          "price": 16.57,
+          "description": "Duis commodo mollit aute proident ipsum culpa quis non. Cillum enim exercitation in laborum sunt nulla officia non cupidatat."
+        }
+      ]
+    },
+    "maxLifespan": 9,
+    "releaseDate": "2015-07-04T14:50:00.379Z",
+    "purchaseDate": null
+  },
+  {
+    "id": "29d862c5-4f6c-4afe-8480-cb413c5a0964",
+    "name": "non magna dolore laboris occaecat",
+    "type": "DISHWASHER",
+    "image": "https://via.placeholder.com/200x200.png",
+    "addedOn": null,
+    "manualUrl": "https://fnac.com/6e3dd45e-5090-4a5b-845a-c2c504fdb4d8",
+    "maintenance": {
+      "logs": [],
+      "tutorials": [
+        {
+          "id": "5d6f9acb-74b0-4413-9457-d7741f45a652",
+          "image": "https://via.placeholder.com/200x200.png",
+          "title": "ut ad nisi esse ipsum",
+          "videoUrl": "https://darty.com/d99d9bde-106a-46f7-bb7f-fb77a2295eec",
+          "description": "Deserunt officia ex enim sunt laboris aliquip non minim ea anim. Excepteur ex in pariatur dolore ex veniam adipisicing non."
+        }
+      ],
+      "spareParts": [
+        {
+          "id": "4edea61d-7c8d-438d-a5c9-1dca34c8797e",
+          "url": "https://youtube.com/81b81bd7-73ac-4dfe-a276-020c56e91af3",
+          "name": "nostrud qui deserunt",
+          "image": "https://via.placeholder.com/200x200.png",
+          "price": 14.89,
+          "description": "Laborum veniam ad laborum aliquip labore aute eiusmod anim aliqua aliqua veniam occaecat sint voluptate. Aliquip voluptate pariatur duis ipsum culpa ut do ea laboris ullamco cupidatat."
+        },
+        {
+          "id": "498c4bab-6f5e-436d-9251-8e6c05dcabd0",
+          "url": "https://youtube.com/6ed2b1fd-cd79-4d0d-938b-fb53c47ab0fd",
+          "name": "eiusmod nisi sit",
+          "image": "https://via.placeholder.com/200x200.png",
+          "price": 24.92,
+          "description": "Aute dolor incididunt laborum Lorem sit excepteur. Cillum occaecat labore quis ex eiusmod veniam voluptate non proident ad velit pariatur."
+        },
+        {
+          "id": "18fd82f2-c727-4638-945b-7588ad58c741",
+          "url": "https://youtube.com/5a508e72-cd44-430c-8abc-87564f00f8a2",
+          "name": "quis est eiusmod",
+          "image": "https://via.placeholder.com/200x200.png",
+          "price": 20.88,
+          "description": "Amet eu magna amet culpa laboris irure est proident. Cillum qui do officia voluptate cillum nostrud elit id sint duis ea sit cillum ex."
+        },
+        {
+          "id": "4ddea816-8844-4542-81ff-959f2d7fe4f1",
+          "url": "https://youtube.com/b4fc2fd0-c875-408b-99ae-e4d8780d3413",
+          "name": "adipisicing do aute",
+          "image": "https://via.placeholder.com/200x200.png",
+          "price": 40.38,
+          "description": "Lorem sit mollit incididunt cupidatat sint cupidatat veniam consequat do Lorem duis dolor. Voluptate nostrud irure veniam voluptate officia."
+        }
+      ]
+    },
+    "maxLifespan": 15,
+    "releaseDate": "2022-01-09T02:09:26.088Z",
+    "purchaseDate": null
+  },
+  {
+    "id": "a9b0c394-d858-43e6-9938-6a1470b4910e",
+    "name": "ad nisi cillum ad nisi",
+    "type": "WASHING_MACHINE",
+    "image": "https://via.placeholder.com/200x200.png",
+    "addedOn": null,
+    "manualUrl": "https://fnac.com/24054cc6-4d6b-40e3-ab87-0d84cd99a41a",
+    "maintenance": {
+      "logs": [
+        {
+          "data": [
+            {
+              "date": 1529861511,
+              "title": "ex est sit",
+              "subtitle": "et magna sint"
+            },
+            {
+              "date": 1575909863,
+              "title": "deserunt adipisicing in",
+              "subtitle": "exercitation est do"
+            }
+          ],
+          "date": 1542081524
+        },
+        {
+          "data": [
+            {
+              "date": 1460547064,
+              "title": "elit adipisicing ad",
+              "subtitle": "ut adipisicing nostrud"
+            },
+            {
+              "date": 1470342803,
+              "title": "consequat est eu",
+              "subtitle": "consectetur proident velit"
+            },
+            {
+              "date": 1639221884,
+              "title": "culpa ea esse",
+              "subtitle": "eu sunt in"
+            },
+            {
+              "date": 1556363880,
+              "title": "nisi ut eu",
+              "subtitle": "proident eiusmod excepteur"
+            },
+            {
+              "date": 1632172739,
+              "title": "aute do consectetur",
+              "subtitle": "amet mollit reprehenderit"
+            },
+            {
+              "date": 1490215963,
+              "title": "pariatur occaecat anim",
+              "subtitle": "non cupidatat sit"
+            },
+            {
+              "date": 1470945169,
+              "title": "eu ipsum ullamco",
+              "subtitle": "in incididunt elit"
+            },
+            {
+              "date": 1469355057,
+              "title": "consequat qui irure",
+              "subtitle": "nostrud nulla excepteur"
+            },
+            {
+              "date": 1447095832,
+              "title": "proident esse non",
+              "subtitle": "est aliquip fugiat"
+            },
+            {
+              "date": 1557958543,
+              "title": "duis reprehenderit anim",
+              "subtitle": "exercitation et veniam"
+            }
+          ],
+          "date": 1480473394
+        },
+        {
+          "data": [
+            {
+              "date": 1501031240,
+              "title": "in sint eu",
+              "subtitle": "nostrud eiusmod esse"
+            },
+            {
+              "date": 1630808582,
+              "title": "consequat magna aliquip",
+              "subtitle": "voluptate labore dolor"
+            },
+            {
+              "date": 1611349766,
+              "title": "voluptate mollit sint",
+              "subtitle": "minim aute aute"
+            },
+            {
+              "date": 1456541212,
+              "title": "velit occaecat veniam",
+              "subtitle": "incididunt nostrud aliqua"
+            },
+            {
+              "date": 1421842940,
+              "title": "aliquip officia et",
+              "subtitle": "non qui in"
+            },
+            {
+              "date": 1614687449,
+              "title": "labore adipisicing est",
+              "subtitle": "exercitation cupidatat velit"
+            }
+          ],
+          "date": 1558171146
+        },
+        {
+          "data": [],
+          "date": 1546728769
+        },
+        {
+          "data": [
+            {
+              "date": 1543213112,
+              "title": "ex duis nisi",
+              "subtitle": "voluptate culpa consequat"
+            },
+            {
+              "date": 1511106924,
+              "title": "proident labore culpa",
+              "subtitle": "eu occaecat et"
+            },
+            {
+              "date": 1471391472,
+              "title": "nostrud deserunt quis",
+              "subtitle": "id do nulla"
+            }
+          ],
+          "date": 1421802606
+        },
+        {
+          "data": [
+            {
+              "date": 1471056883,
+              "title": "ipsum nostrud culpa",
+              "subtitle": "officia occaecat consequat"
+            },
+            {
+              "date": 1484750779,
+              "title": "eiusmod eu adipisicing",
+              "subtitle": "fugiat ipsum non"
+            },
+            {
+              "date": 1641641193,
+              "title": "voluptate laboris do",
+              "subtitle": "irure sunt nisi"
+            },
+            {
+              "date": 1498577087,
+              "title": "id magna commodo",
+              "subtitle": "ut adipisicing ut"
+            },
+            {
+              "date": 1455319407,
+              "title": "veniam non culpa",
+              "subtitle": "excepteur est Lorem"
+            },
+            {
+              "date": 1480264121,
+              "title": "ea sint reprehenderit",
+              "subtitle": "fugiat consectetur eiusmod"
+            },
+            {
+              "date": 1550318974,
+              "title": "incididunt ullamco ex",
+              "subtitle": "nisi est consequat"
+            },
+            {
+              "date": 1457181430,
+              "title": "eu minim excepteur",
+              "subtitle": "ad aute anim"
+            },
+            {
+              "date": 1557886199,
+              "title": "aliquip est minim",
+              "subtitle": "Lorem ea mollit"
+            }
+          ],
+          "date": 1517787838
+        },
+        {
+          "data": [
+            {
+              "date": 1534422821,
+              "title": "proident ad anim",
+              "subtitle": "consectetur commodo ea"
+            },
+            {
+              "date": 1477712543,
+              "title": "culpa Lorem pariatur",
+              "subtitle": "cillum laborum magna"
+            },
+            {
+              "date": 1607586676,
+              "title": "veniam consequat non",
+              "subtitle": "id enim velit"
+            },
+            {
+              "date": 1552874271,
+              "title": "velit veniam cupidatat",
+              "subtitle": "irure anim irure"
+            },
+            {
+              "date": 1471232069,
+              "title": "ullamco et et",
+              "subtitle": "minim esse proident"
+            }
+          ],
+          "date": 1523705881
+        },
+        {
+          "data": [
+            {
+              "date": 1641412296,
+              "title": "dolor consequat dolore",
+              "subtitle": "commodo sunt sint"
+            },
+            {
+              "date": 1424193470,
+              "title": "culpa voluptate do",
+              "subtitle": "proident esse esse"
+            },
+            {
+              "date": 1518133926,
+              "title": "fugiat ullamco irure",
+              "subtitle": "exercitation incididunt irure"
+            },
+            {
+              "date": 1433811665,
+              "title": "nulla magna elit",
+              "subtitle": "pariatur enim consequat"
+            }
+          ],
+          "date": 1605062485
+        },
+        {
+          "data": [
+            {
+              "date": 1637036457,
+              "title": "esse voluptate occaecat",
+              "subtitle": "elit in non"
+            }
+          ],
+          "date": 1478244122
+        }
+      ],
+      "tutorials": [
+        {
+          "id": "8dab34b4-d6f7-4863-a527-94c6cc5cbc3b",
+          "image": "https://via.placeholder.com/200x200.png",
+          "title": "tempor eiusmod fugiat est in",
+          "videoUrl": "https://darty.com/5a27e586-ccb8-4138-8995-f1cbc466d337",
+          "description": "Eiusmod laborum elit eu aliqua do nostrud ullamco cupidatat proident dolore adipisicing deserunt. Et laborum quis amet dolore consequat magna est consectetur ex ea ea do qui."
+        },
+        {
+          "id": "7d0d523c-b86d-419b-8c0a-c85a9bd2520c",
+          "image": "https://via.placeholder.com/200x200.png",
+          "title": "irure irure amet fugiat qui",
+          "videoUrl": "https://darty.com/66d4cad6-e68c-407e-802f-cc317d3853c5",
+          "description": "Et ipsum ea ut sunt quis labore. Amet Lorem eiusmod mollit non fugiat incididunt Lorem proident do aliquip nisi id aliquip sint."
+        },
+        {
+          "id": "0434c9e0-803b-4445-b268-f3097daa5393",
+          "image": "https://via.placeholder.com/200x200.png",
+          "title": "dolore minim et aliqua non",
+          "videoUrl": "https://darty.com/47ed89e7-9d9c-4484-9729-1f0c868c923c",
+          "description": "Anim reprehenderit et nisi duis ut commodo ipsum anim ipsum. Incididunt enim adipisicing Lorem commodo ullamco pariatur esse."
+        },
+        {
+          "id": "9991753a-ce72-46e6-aee2-ddf15b1bdb42",
+          "image": "https://via.placeholder.com/200x200.png",
+          "title": "tempor officia laboris dolor officia",
+          "videoUrl": "https://darty.com/d472fe4f-2f84-4a18-8d97-549609abb342",
+          "description": "Eu mollit nisi ipsum non occaecat fugiat aliquip incididunt eu officia sint esse eu labore. Fugiat anim voluptate mollit quis fugiat mollit cupidatat excepteur quis anim nostrud labore deserunt in."
+        },
+        {
+          "id": "4fce0e27-fc53-43f4-bddd-27d9192a0302",
+          "image": "https://via.placeholder.com/200x200.png",
+          "title": "do labore consequat officia enim",
+          "videoUrl": "https://darty.com/6c4e725a-ef2b-4076-9326-1e00d6ce2eb1",
+          "description": "Occaecat aliquip sint deserunt velit id aliquip tempor laboris minim. Excepteur quis Lorem proident proident velit exercitation minim elit commodo magna nulla."
+        },
+        {
+          "id": "337c0b70-2217-4c89-b893-3bc1cc24cb04",
+          "image": "https://via.placeholder.com/200x200.png",
+          "title": "id mollit enim sit in",
+          "videoUrl": "https://darty.com/f4724078-7c57-4b67-a972-0ca44c045c25",
+          "description": "Nulla id mollit exercitation non velit ullamco velit labore ex sint consequat deserunt tempor veniam. Nulla esse occaecat quis sint non ipsum qui proident."
+        },
+        {
+          "id": "e5a7eeb0-e24d-4410-b05b-ac859fee5184",
+          "image": "https://via.placeholder.com/200x200.png",
+          "title": "exercitation occaecat sunt consectetur irure",
+          "videoUrl": "https://darty.com/443adb55-48ef-47b3-a603-9362990b2faa",
+          "description": "Tempor quis minim cillum ipsum sunt ex commodo esse qui voluptate velit sit voluptate. Consectetur elit labore consectetur laborum ex et duis occaecat enim et ad."
+        },
+        {
+          "id": "7f52269d-ef87-4c92-a473-aa16cf96a00b",
+          "image": "https://via.placeholder.com/200x200.png",
+          "title": "aute laboris Lorem occaecat non",
+          "videoUrl": "https://darty.com/6daaf223-5134-4b59-89ec-ee6f5353e002",
+          "description": "Nulla Lorem nostrud irure quis duis consequat enim cillum cupidatat aliqua commodo. Anim esse eiusmod in id voluptate consectetur labore reprehenderit id nostrud velit esse sint."
+        },
+        {
+          "id": "145cee13-0bbd-4e6d-ba3c-0262b22432b9",
+          "image": "https://via.placeholder.com/200x200.png",
+          "title": "anim voluptate esse incididunt nostrud",
+          "videoUrl": "https://darty.com/3806f2b3-2396-4bd9-965a-1d30a6a1b58c",
+          "description": "Ut mollit quis aliqua proident voluptate dolor et officia labore. Ut commodo irure aliqua magna nostrud ullamco."
+        },
+        {
+          "id": "33297ddb-9d0b-417a-af1a-af85ac62a6d7",
+          "image": "https://via.placeholder.com/200x200.png",
+          "title": "amet est laborum excepteur do",
+          "videoUrl": "https://darty.com/d6ff0662-e755-4321-9702-d8527bad5e38",
+          "description": "Voluptate dolor pariatur laborum laboris labore. Ullamco ipsum elit do ad sit."
+        }
+      ],
+      "spareParts": [
+        {
+          "id": "64f8ab2d-bacd-4a04-8017-fc3d5f6dcf35",
+          "url": "https://youtube.com/86bba506-5fd2-4338-9468-11a970893886",
+          "name": "adipisicing esse consectetur",
+          "image": "https://via.placeholder.com/200x200.png",
+          "price": 23.91,
+          "description": "Labore laborum ad Lorem laboris id incididunt dolore ad. Anim pariatur excepteur dolor elit duis."
+        },
+        {
+          "id": "b2965932-c926-4b8a-8c76-9cb83ecb9216",
+          "url": "https://youtube.com/bebf6241-d82f-4520-9308-667ba7ff8249",
+          "name": "ad id amet",
+          "image": "https://via.placeholder.com/200x200.png",
+          "price": 45.18,
+          "description": "Amet ad proident officia ipsum tempor excepteur. Ipsum magna qui proident sit laborum tempor."
+        },
+        {
+          "id": "a9bb9210-8077-46f8-92fa-96fc456a10ae",
+          "url": "https://youtube.com/1811d0e4-687e-4cd8-a665-b50a4049ae28",
+          "name": "irure consectetur exercitation",
+          "image": "https://via.placeholder.com/200x200.png",
+          "price": 18.54,
+          "description": "Minim id non sit eu deserunt laboris exercitation aute ullamco. Do deserunt culpa do eu duis mollit aute commodo aliquip deserunt mollit cillum esse."
+        },
+        {
+          "id": "45b46dc1-c386-4e7d-993d-a63d2cccbada",
+          "url": "https://youtube.com/191b3652-be34-421a-9ef3-e964052382a1",
+          "name": "eu consectetur cupidatat",
+          "image": "https://via.placeholder.com/200x200.png",
+          "price": 42.92,
+          "description": "Occaecat commodo laboris esse esse quis labore ullamco irure id. Adipisicing qui ad consectetur consequat sint culpa ex duis commodo tempor."
+        },
+        {
+          "id": "16f4a5f4-6503-4f98-9cd5-2b63a3c740f6",
+          "url": "https://youtube.com/d98f981d-0f84-4048-b91a-0f9473f96bd6",
+          "name": "mollit exercitation voluptate",
+          "image": "https://via.placeholder.com/200x200.png",
+          "price": 43.59,
+          "description": "Ut do officia fugiat sunt cupidatat excepteur occaecat sint laboris non cillum ut. Consequat deserunt duis ullamco deserunt."
+        },
+        {
+          "id": "20d45962-4b37-423c-8727-e73ee429a1dd",
+          "url": "https://youtube.com/0fd6ac7f-5885-44a1-9a1a-f7834209741a",
+          "name": "voluptate aliqua cupidatat",
+          "image": "https://via.placeholder.com/200x200.png",
+          "price": 42.24,
+          "description": "In est exercitation sit non laboris incididunt adipisicing sint anim officia. Irure tempor id sunt fugiat non eiusmod voluptate exercitation tempor mollit cillum."
+        },
+        {
+          "id": "c1a55b6a-457c-47a1-8570-e63ec0f75d55",
+          "url": "https://youtube.com/6fa14904-fa30-4b8b-a95e-ff2e245f8679",
+          "name": "duis quis fugiat",
+          "image": "https://via.placeholder.com/200x200.png",
+          "price": 45.56,
+          "description": "Velit irure esse eu consectetur ullamco deserunt elit voluptate do consectetur occaecat consectetur duis quis. Voluptate labore nostrud est nostrud consectetur in dolor quis commodo Lorem laborum."
+        }
+      ]
+    },
+    "maxLifespan": 13,
+    "releaseDate": "2021-01-08T09:29:55.533Z",
+    "purchaseDate": null
+  }
+]

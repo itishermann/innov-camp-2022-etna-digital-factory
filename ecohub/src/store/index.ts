@@ -8,7 +8,7 @@ import { TypedUseSelectorHook, useDispatch, useSelector } from 'react-redux';
 const persistConfig: PersistConfig<any> = {
   key: '@ecohub-data',
   storage: AsyncStorage,
-  whitelist: ['auth', 'settings', 'user', 'planning', 'document'],
+  whitelist: ['appliance', 'household'],
   blacklist: [],
 };
 

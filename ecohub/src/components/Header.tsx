@@ -18,17 +18,14 @@ interface HeaderProps {
   style?: StyleProp<ViewStyle>;
   back?: { title: string } | undefined;
   navigation?: NavigationProp<any>;
-  transparent?: boolean;
 }
 
-const Header: React.FC<HeaderProps> = ({ title, style, back, navigation, transparent }) => {
-  const backgroundColor = '#4D8D6E';
-  const textColor = '#fff';
+const Header: React.FC<HeaderProps> = ({ title, style, back, navigation}) => {
   return (
     <HStack
       style={style}
       safeAreaTop
-      bg={transparent ? undefined : backgroundColor}
+      bg='#4D8D6E'
       justifyContent={back && back.title ? 'space-between' : 'center'}
       alignItems="center"
       height={24}>
@@ -48,7 +45,7 @@ const Header: React.FC<HeaderProps> = ({ title, style, back, navigation, transpa
       </Pressable>
       <Center w="80%" flex={4}>
         <Stack w="full">
-          <Heading fontSize="md" textAlign="center" color={textColor} w="full">
+          <Heading fontSize="md" textAlign="center" color={'#fff'} w="full">
             {title}
           </Heading>
         </Stack>

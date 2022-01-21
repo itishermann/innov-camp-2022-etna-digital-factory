@@ -6,5 +6,7 @@ export { default as Maintenances } from './Maintenances';
 export { default as Notifications } from './Notifications';
 export { default as Blog } from './Blog';
 export { default as Article } from './Article';
+export { default as Details } from './Details';
 export { default as AddAppliance } from './AddAppliance';
+export { default as ApplianceComplementaryInfos } from './ApplianceComplementaryInfos';
 export { default as AddHousehold } from './AddHousehold';

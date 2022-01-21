@@ -1327,6 +1327,11 @@
   dependencies:
     tslib "^2.1.0"
 
+"@freakycoder/react-native-helpers@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@freakycoder/react-native-helpers/-/react-native-helpers-1.0.2.tgz#db97b9634d79cd92cfd735a2d797f94c65206dbb"
+  integrity sha512-VBFNOQg7VTCyAP/ty0O2anlOrZtBPThwMXywU0IMbkcUkk38UO1DQ6A93NMstA2vf1ozJ4QqKd/IIv9rgrcR2A==
+
 "@hapi/hoek@^9.0.0":
   version "9.2.1"
   resolved "https://registry.npmjs.org/@hapi/hoek/-/hoek-9.2.1.tgz"
@@ -6529,7 +6534,7 @@ prompts@^2.4.0:
     kleur "^3.0.3"
     sisteransi "^1.0.5"
 
-prop-types@^15.6.0, prop-types@^15.6.2, prop-types@^15.7.2:
+prop-types@^15.5.10, prop-types@^15.6.0, prop-types@^15.6.2, prop-types@^15.7.2:
   version "15.8.1"
   resolved "https://registry.npmjs.org/prop-types/-/prop-types-15.8.1.tgz"
   integrity sha512-oj87CgZICdulUohogVAR7AjlC0327U4el4L6eAvOqCeudMDVU0NThNaV+b9Df4dXgSP1gXMTnPdhfe/2qDH5cg==
@@ -6617,6 +6622,16 @@ react-is@^17.0.1, react-is@^17.0.2:
   resolved "https://registry.npmjs.org/react-is/-/react-is-17.0.2.tgz"
   integrity sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w==
 
+react-native-androw@^0.0.34:
+  version "0.0.34"
+  resolved "https://registry.yarnpkg.com/react-native-androw/-/react-native-androw-0.0.34.tgz#5c4214b155946004a57916619a518974ebd96b36"
+  integrity sha512-YuW0GxYNzABvPPe6k+JdLUF5CAzKSW5R6IxxA/+fg5gc+4avE1tZgLmnRfNtXJCbW9r90YLYp33S9Uu2pe//fg==
+
+react-native-beautiful-timeline@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/react-native-beautiful-timeline/-/react-native-beautiful-timeline-0.1.1.tgz#d70268238365034d58c522a62892cab5b184a2c7"
+  integrity sha512-9iVdM8u8W7kbPrl2Q73R1bgd8tj2Mc0Z4aBl0cBPMQlR/7qOp+E/h50LoL7lnBitmZd4C5draysdUnSNDVWWgA==
+
 react-native-codegen@^0.0.6:
   version "0.0.6"
   resolved "https://registry.npmjs.org/react-native-codegen/-/react-native-codegen-0.0.6.tgz"
@@ -6625,6 +6640,14 @@ react-native-codegen@^0.0.6:
     flow-parser "^0.121.0"
     jscodeshift "^0.11.0"
     nullthrows "^1.1.1"
+
+react-native-dash@^0.0.11:
+  version "0.0.11"
+  resolved "https://registry.yarnpkg.com/react-native-dash/-/react-native-dash-0.0.11.tgz#cf1b0108e4660217cf0300b872231a5cadb9c4a8"
+  integrity sha512-edgspmVtGVYxOhGs8STCj7+VyQYUR1RkiGHkWDGwiQkEEIFrxWLa3D9ZIrLsm3LKU4XGQ2iEqCv9fJQSeTyAJA==
+  dependencies:
+    prop-types "^15.5.10"
+    react-native-measureme "0.0.2"
 
 react-native-gesture-handler@~2.1.0:
   version "2.1.1"
@@ -6649,6 +6672,11 @@ react-native-keyboard-aware-scroll-view@^0.9.5:
   dependencies:
     prop-types "^15.6.2"
     react-native-iphone-x-helper "^1.0.3"
+
+react-native-measureme@0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/react-native-measureme/-/react-native-measureme-0.0.2.tgz#7f54eeb0813d461ef6c49d921e42e253d649c47a"
+  integrity sha512-m7Td7w1pVdIf7a3ejN7K/67AU+TtkZqTt9/ieKamirLRI3fjLToupmOKDtIOU3Y56oKojzTKz1lBbYSPN28HWA==
 
 react-native-pager-view@5.4.9:
   version "5.4.9"

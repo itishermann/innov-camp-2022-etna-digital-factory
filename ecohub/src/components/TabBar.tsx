@@ -2,7 +2,7 @@ import React from 'react';
 import { View, Dimensions, StyleSheet } from 'react-native';
 import { MaterialCommunityIcons } from '@expo/vector-icons';
 import { BottomTabBarProps } from '@react-navigation/bottom-tabs';
-import { Box, Fab, HStack, Icon, IconButton, PresenceTransition, Pressable, Slide, useDisclose } from 'native-base';
+import { Box, Fab, HStack, Icon, IconButton, Modal, PresenceTransition, Pressable, Slide, useDisclose } from 'native-base';
 
 const { width } = Dimensions.get('window');
 
@@ -42,6 +42,7 @@ const styles = StyleSheet.create({
 
 const TabBar: React.FC<BottomTabBarProps> = ({ state, descriptors, navigation }) => {
   const { isOpen, onToggle, onClose } = useDisclose();
+  const as = useDisclose();
   return (
     <>
       <Box style={{ marginHorizontal: width * 0.03, alignItems: 'center' }}>

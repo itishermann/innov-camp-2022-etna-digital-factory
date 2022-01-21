@@ -8,7 +8,6 @@ import moment from 'moment';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 const Article = () => {
-  const navigation = useNavigation();
   const route = useRoute();
   // @ts-expect-error - could not find a type for this for now (see above)
   const article = route.params?.article as Article;
