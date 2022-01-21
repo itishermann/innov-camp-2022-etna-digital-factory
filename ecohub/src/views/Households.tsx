@@ -9,7 +9,6 @@ const Home = () => {
   const { households } = useAppSelector(state => state.household);
   return (
     <Box flex={1}>
-      <Text>Home</Text>
     </Box>
   );
 };

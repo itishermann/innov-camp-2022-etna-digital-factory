@@ -10,7 +10,7 @@ const Stack = createStackNavigator();
 const MainNavigator = () => {
   return (
     <Stack.Navigator 
-    initialRouteName="home" 
+    initialRouteName="onboard" 
     screenOptions={{
       header: ({ navigation, route, options, back }) => {
         const title = getHeaderTitle(options, route.name);

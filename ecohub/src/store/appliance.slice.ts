@@ -19,7 +19,7 @@ export const applianceSlice = createSlice({
     },
     removeAppliance: (state, { payload }: PayloadAction<string>) => {
       state.appliances = state.appliances.filter(
-        (appliance) => appliance.id !== payload,
+        (appliance, index) => appliance.id !== payload,
       );
     },
   },

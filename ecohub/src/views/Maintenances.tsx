@@ -9,7 +9,6 @@ const Maintenances = () => {
   const logs = route.params?.logs as MaintenanceLog[];
   return (
     <Box flex={1}>
-      <Timeline data={logs} />
     </Box>
   );
 };

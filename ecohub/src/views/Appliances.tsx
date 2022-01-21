@@ -108,7 +108,7 @@ const Applicances = () => {
             </Stack>
           </Box>
         )}
-        keyExtractor={item => item.id}
+        keyExtractor={(item, index) => item.id+index}
       />
     </Box>
   );
